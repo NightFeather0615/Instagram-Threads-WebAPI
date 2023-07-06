@@ -203,7 +203,7 @@ media_type: <optional<string>>
 ---
 
 ### GET `/media/<post_id>/permalink`
-Usage: Get post's permalink.
+Usage: Get post's permalink.  
 URL Params:
 ```
 exposed_to_experiment: <optional<bool>>
